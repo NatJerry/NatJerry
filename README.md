@@ -1,12 +1,12 @@
 ### <h2 align="center">Hello! 👋 NaT_Jerry here!</h2>
 
 - My Nick Name In the Internet is: **NaT_Jerry** or **Curiously**
-- I'm just a Junior High School Student and learning knowledge in GuangZhou BaiYun Middle School Right now
+- I'm just a Junior High School Student and studying in GuangZhou BaiYun Middle School now,I am so welcome you to visit me in my school
 - You can contact me by QQ and Wechat, or Discord
 - QQ: **3181474546**
 - WeChat: **JerryNB1234**
 - Discord: <Nothing Now>
-- 🌱 I’m learning **Java**
+- 🌱 I’m learning **Java** , and planning to learn C++,Rust and Python
   
 [![NatJerry's github stats](https://github-readme-stats.vercel.app/api?username=natjerry&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   
