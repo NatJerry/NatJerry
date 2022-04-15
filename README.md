@@ -1,6 +1,6 @@
 ### <h2 align="center">Hello! 👋 NaT_Jerry here!</h2>
 
-- My Nick Name In the Internet is: **NaT_Jerry** or **Curiously**
+- My Nick Name In the Internet is: **NaT_Jerry** or **Misaka Mikoto**
 - I'm just a Junior High School Student and studying in GuangZhou BaiYun Middle School now,I am so welcome you to visit me in my school
 - You can contact me by QQ and Wechat, or Discord
 - QQ: **3181474546**
