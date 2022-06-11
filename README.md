@@ -6,7 +6,7 @@
 - QQ: **3181474546**
 - WeChat: **JerryNB1234**
 - Discord: <Nothing Now>
-- 🌱 I’m learning **Java** , and planning to learn C++,Rust and Python
+- 🌱 I’m learning **Java** and **Rust**, planning to learn C++ and Python
   
 [![NatJerry's github stats](https://github-readme-stats.vercel.app/api?username=natjerry&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   
