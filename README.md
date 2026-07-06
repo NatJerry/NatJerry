@@ -1,8 +1,8 @@
 ### <h2 align="center">Hello! 👋 NaT_Jerry here!</h2>
   
-[![NatJerry's github stats](https://github-readme-stats.vercel.app/api?username=natjerry&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![NatJerry's github stats](https://github-stats-extended.vercel.app/api?username=natjerry&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natjerry&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=natjerry&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NatJerry/NatJerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
